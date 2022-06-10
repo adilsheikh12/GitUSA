@@ -14,7 +14,13 @@ public class Day1 {
 	public void CarLoan() {
 		System.out.println("Car Loan");
 		System.out.println("motor loan");
-		System.out.println("vehicle loan");
+		System.out.println("vehicle loan_1");
+		System.out.println("Car Loan_2");
+		System.out.println("motor loan_3");
+		System.out.println("vehicle loan_4");
+		System.out.println("Car Loan_5");
+		System.out.println("motor loan_6");
+		System.out.println("vehicle loan_7");
 	}
 
 	@AfterTest
