@@ -26,6 +26,16 @@ public class Day1 {
 		System.out.println("get_loan");
 		System.out.println("take_loan");
 	}
+	@Test
+	public void getFund() {
+		System.out.println("get_fund");
+		System.out.println("take_fund");
+	}
+	@Test
+	public void getShare() {
+		System.out.println("get_share");
+		System.out.println("take_share");
+	}
 	
 	
 	@AfterTest
