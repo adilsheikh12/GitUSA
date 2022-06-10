@@ -18,11 +18,16 @@ public class Day1 {
 		System.out.println("Car Loan_2");
 		System.out.println("motor loan_3");
 		System.out.println("vehicle loan_4");
-		System.out.println("Car Loan_5");
-		System.out.println("motor loan_6");
-		System.out.println("vehicle loan_7");
+		
 	}
 
+	@Test
+	public void getLoan() {
+		System.out.println("get_loan");
+		System.out.println("take_loan");
+	}
+	
+	
 	@AfterTest
 	public void cleanLogs()
 	{
