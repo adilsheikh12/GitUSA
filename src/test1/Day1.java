@@ -13,6 +13,8 @@ public class Day1 {
 	@Test
 	public void CarLoan() {
 		System.out.println("Car Loan");
+		System.out.println("motor loan");
+		System.out.println("vehicle loan");
 	}
 
 	@AfterTest
